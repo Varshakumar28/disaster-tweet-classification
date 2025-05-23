@@ -113,4 +113,4 @@ This project is licensed under the MIT License.
 
 ## Author
 Varsha Medukonduru — Graduate student specialising in Business Analytics & Data Engineering.
-![image](https://github.com/user-attachments/assets/0ec62d83-7cad-426f-a1b8-21ba8724f608)
+
