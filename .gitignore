@@ -1,0 +1,31 @@
+# Ignore the data folder (Kaggle dataset)
+data/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings (if you're using it)
+.vscode/
+
+# Logs and outputs
+*.log
+
+# Cache files
+*.cache
+*.pkl
+*.joblib
+
+# Python test files
+test_*.py
